@@ -6,8 +6,9 @@ A simple Python utility to rename and organize PDF files according to a specific
 
 1. Make sure you have Python installed on your system
 2. The program uses two main folders:
-   - `C:\Users\hiwin.lo\PDF Converter\OriginalPDFs` - Place your original PDF files here
-   - `C:\Users\hiwin.lo\PDF Converter\RenamedPDFs` - Converted files will be stored here
+   Example:
+   - `C:\Users\user\PDF Converter\OriginalPDFs` - Place your original PDF files here
+   - `C:\Users\user\PDF Converter\RenamedPDFs` - Converted files will be stored here
 
 ## How to Use
 
